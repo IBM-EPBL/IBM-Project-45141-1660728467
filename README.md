@@ -6,4 +6,4 @@ In order to predict the resale value of the car, we proposed an intelligent, fle
 
 Technical Architecture:
 
-https://lh6.googleusercontent.com/alt4R7xSXSjqDVTmV8-_RmkIANAGMhrO35Li6HtVnUPkq1FAMu2Iq6kmTqjXRdKT45-5m0BdgT8cGIOBJKehp35DRPrTElRLHOohSKTLOMoigA12XLokcj2AdrVzQhvegUsZ8MeO
+![image](https://user-images.githubusercontent.com/68995139/199899785-52acf87b-6b08-4c81-b49f-007472a31c87.png)
